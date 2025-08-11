@@ -1,0 +1,39 @@
+.l{
+
+background-color: rgb(0, 255, 51);
+text-align: center;
+}
+h1{
+     color: #ffffff;
+}
+.m{
+
+     color: #ffffff;
+}
+q{
+     background-color: #f3a3a3;
+}
+button{
+     background-color: rgb(0, 255, 30);
+     width: 150px;
+}
+img{
+border-radius: 20px;
+
+
+}
+.s{
+     width: 1300px;
+}
+.k{
+     width: 2000px;
+     height: 500px;
+}
+.v{
+     width: 300px;
+     height: 100px;
+}
+.v::placeholder{
+    position: absolute;
+    top: 0;
+}
